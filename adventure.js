@@ -14,7 +14,7 @@ Do you follow it, or continue on your path?`)
             else if (thirdAnswer.toLowerCase() == 'spread the word'){
                 alert(`After leaving the cat colony, you are never able to find it again; 
                 without proof, no one believes your story, 
-                which passes into legend nonetheless.`)
+                which passes into legend nonetheless. test`) 
             }
         }
         else if (secondAnswer.toLowerCase() == 'continue'){
